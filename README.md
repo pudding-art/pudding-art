@@ -7,8 +7,9 @@
 「✨I'm a **Programming Rookie**✨」
 「I like literature, reading and travelling」
 
-
-
+<div align="center">
+ <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/pudding-art/pudding-art/master/assets/208593.gif">
+</div>
 
 
 Although I was not interested in it at the beginning,
