@@ -11,9 +11,9 @@
 <table>
   <tr>
     <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true"></td>
-     <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty2.png?raw=true"></td>
         <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/betty3.png?raw=true"></td>
            <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/betty4.png?raw=true"></td>
+    <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty2.png?raw=true"></td>
   </tr>
  </table>
  </br>
@@ -33,7 +33,7 @@ Maybe someday in the future I will be a chief software architect.
 - ⚡ Fun fact: ...
 
 </br>
-      <div text-align=center>                                                ════ ⋆★⋆ ════</br>
-                                                     "Happy Coding👨‍💻!"
-                                                     </div>
+                        <center>                        ════ ⋆★⋆ ════</br></center>
+                                                     <center>"Happy Coding👨‍💻!"</center>
+                                                  
 
