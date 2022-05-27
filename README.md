@@ -9,11 +9,11 @@
 「I like literature, reading and travelling」
 
 <div align="left">
- <img align="left" src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true">
+ <img align="left" height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true">
 </div>
 
 <div align="right">
- <img align="right" src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty2.png?raw=true">
+ <img align="right" height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty2.png?raw=true">
 </div>
  </br>
 
