@@ -8,14 +8,14 @@
 </br>
 「I like literature, reading and travelling」
 
-<div align="left">
- <img align="left" height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true">
-</div>
-
-
-<div align="right">
- <img align="right" height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty2.png?raw=true">
-</div>
+<table>
+  <tr>
+    <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true"></td>
+     <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true"></td>
+        <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true"></td>
+           <td><img height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true"></td>
+  </tr>
+ </table>
  </br>
  </br>
  </br>
