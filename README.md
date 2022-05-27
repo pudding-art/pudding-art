@@ -9,7 +9,7 @@
 「I like literature, reading and travelling」
 
 <div align="center">
- <img align="center" src="https://github.com/pudding-art/pudding-art/raw/master/asserts/566931653642556_.pic.jpg">
+ <img align="center" src="https://github.com/pudding-art/pudding-art/raw/master/asserts/betty1.png">
 </div>
 
  </br>
