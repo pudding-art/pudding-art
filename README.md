@@ -33,8 +33,7 @@ Maybe someday in the future I will be a chief software architect.
 - ⚡ Fun fact: ...
 
 </br>
-                        <p style="text-align:center;"> ════ ⋆★⋆ ════</p>
-                  
-                                       <p style="text-align:center;">"Happy Coding👨‍💻!"</p>
+                                               ════ ⋆★⋆ ════
+                                     "Happy Coding👨‍💻!"
                                                   
 
