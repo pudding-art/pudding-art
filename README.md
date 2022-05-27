@@ -4,9 +4,8 @@
 **pudding-art/pudding-art** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-                                            「✨I'm a **Programming Rookie**✨」
-                                            
-                                        「I like literature, reading and travelling」
+「✨I'm a **Programming Rookie**✨」
+「I like literature, reading and travelling」
 
 
 
