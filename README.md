@@ -1,4 +1,4 @@
-                                 ### > Hi there 👋, I'm a tenth-level scholar of Betty Sun.
+  ### > Hi there 👋, I'm a tenth-level scholar of Betty Sun.
 
 <!--
 **pudding-art/pudding-art** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -24,3 +24,6 @@ Maybe someday in the future I will be a chief software architect.
 - 💬 Ask me about balabalabala
 - 😄 Pronouns: her
 - ⚡ Fun fact: ...
+                                                      ════ ⋆★⋆ ════
+                                                     "Happy Coding👨‍💻!"
+
