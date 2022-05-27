@@ -8,12 +8,12 @@
 </br>
 「I like literature, reading and travelling」
 
-<!-- <div align="center">
- <img align="center" src="https://github.com/pudding-art/pudding-art/blob/master/asserts/566931653642556_.pic.jpg">
+<div align="center">
+ <img align="center" src="https://github.com/pudding-art/pudding-art/raw/master/asserts/566931653642556_.pic.jpg">
 </div>
- -->
- 
- ![img](https://github.com/pudding-art/pudding-art/blob/master/asserts/566931653642556_.pic.jpg)
+
+ </br>
+
 
 Although I was not interested in it at the beginning,
 luckily I slowly fell in love with it💻👨‍💻
