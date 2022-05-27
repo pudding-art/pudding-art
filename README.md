@@ -13,7 +13,7 @@
 </div>
  -->
  
- ![https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png](https://github.com/pudding-art/pudding-art/blob/master/asserts/566931653642556_.pic.jpg)
+ ![img](https://github.com/pudding-art/pudding-art/blob/master/asserts/566931653642556_.pic.jpg)
 
 Although I was not interested in it at the beginning,
 luckily I slowly fell in love with it💻👨‍💻
