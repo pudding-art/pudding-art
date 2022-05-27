@@ -8,7 +8,7 @@
 「I like literature, reading and travelling」
 
 <div align="center">
- <img hight="300" width="700" alt="JPG" align="center" src="https://github.com/pudding-art/pudding-art/blob/master/asserts/566931653642556_.pic.jpg">
+ <img hight="300" width="700" alt="JPG" align="center" src="[https://github.com/pudding-art/pudding-art/blob/master/asserts/566931653642556_.pic.jpg](https://github.com/pudding-art/pudding-art/blob/main/asserts/566931653642556_.pic.jpg)">
 </div>
 
 
