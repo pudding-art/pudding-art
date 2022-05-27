@@ -1,16 +1,26 @@
-### Hi there 👋
+                                 ### > Hi there 👋, I'm a tenth-level scholar of Betty Sun.
 
 <!--
-**pudding-art/pudding-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pudding-art/pudding-art** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+                                            「✨I'm a **Programming Rookie**✨」
+                                            
+                                        「I like literature, reading and travelling」
+
+
+
+
+
+Although I was not interested in it at the beginning,
+luckily I slowly fell in love with it💻👨‍💻
+
+Maybe someday in the future I will be a chief software architect.
+
+- 🔭 I’m currently studing in NUDT👨‍🏛 
+- 🌱 I’m currently learning computer architecture and high performance computing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about balabalabala
+- 😄 Pronouns: her
 - ⚡ Fun fact: ...
--->
