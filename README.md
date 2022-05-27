@@ -12,13 +12,14 @@
  <img align="left" height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty1.png?raw=true">
 </div>
 
+
 <div align="right">
  <img align="right" height=200 src="https://github.com/pudding-art/pudding-art/blob/main/asserts/betty2.png?raw=true">
 </div>
  </br>
 
 
-Although I was not interested in it at the beginning,
+</br>Although I was not interested in it at the beginning,
 luckily I slowly fell in love with it💻👨‍💻
 
 Maybe someday in the future I will be a chief software architect.
