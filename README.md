@@ -24,7 +24,6 @@ luckily I slowly fell in love with it💻👨‍💻
 
 Maybe someday in the future I will be a chief software architect.
 
-- 🔭 I’m currently studing in NUDT👨‍🏛 
 - 🌱 I’m currently learning computer architecture and high performance computing
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
